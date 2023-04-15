@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1024px){
+	/* generated in /home/qodeinteractive/silverscreen/public_html/wp-content/themes/silverscreen/framework/modules/header/custom-styles/header.php silverscreen_edge_header_top_bar_responsive_styles function */
+.edgtf-top-bar { height: 0;display: none;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	/* generated in /home/qodeinteractive/silverscreen/public_html/wp-content/themes/silverscreen/assets/custom-styles/general-custom-styles-responsive.php silverscreen_edge_design_responsive_styles function */
+.edgtf-section.edgtf-parallax-section-holder,.touch .edgtf-parallax-section-holder.edgtf-parallax-section-holder-touch-disabled { height: auto !important;min-height: 100px;}
+
+}
+
+@media only screen and (max-width: 480px){
+	/* generated in /home/qodeinteractive/silverscreen/public_html/wp-content/themes/silverscreen/assets/custom-styles/general-custom-styles-responsive.php silverscreen_edge_design_responsive_styles function */
+.edgtf-section.edgtf-parallax-section-holder,.touch .edgtf-parallax-section-holder.edgtf-parallax-section-holder-touch-disabled { height: auto !important;min-height: 100px;}
+
+}
